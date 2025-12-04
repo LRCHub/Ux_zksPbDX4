@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "NYO SWORD",
+  "base_artist": "シッコマン イン ザ パーティ",
+  "createdAt": "2025-12-04T14:07:20.458383Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NYO SWORD",
+      "artist": "シッコマン イン ザ パーティ",
+      "has_synced": false,
+      "path": "select/pl_01_NYO_SWORD_シッコマン_イン_ザ_パーティ.txt"
+    }
+  ]
+}
